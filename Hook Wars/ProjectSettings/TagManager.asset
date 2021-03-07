@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - hook
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Map
+  - Players
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backgraund
+    uniqueID: 2670890075
+    locked: 0
+  - name: Gross
+    uniqueID: 271737913
+    locked: 0
+  - name: River
+    uniqueID: 130829771
+    locked: 0
+  - name: Bound
+    uniqueID: 3026657205
+    locked: 0
+  - name: Player Items
+    uniqueID: 1652425239
+    locked: 0
+  - name: Player
+    uniqueID: 2041294837
+    locked: 0
+  - name: Shop
+    uniqueID: 3578075891
+    locked: 0
+  - name: Leaves
+    uniqueID: 3994540005
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
